@@ -6,22 +6,28 @@ An interactive Power BI report for exploring expected credit loss (ECL), gross n
 
 ## Dashboard Preview
 
-## Landing Page
-![home-page]home-page.png)
+### Landing Page
+
+![Home Page](home-page.png)
 
 ### Executive Overview
+
 ![Executive Overview](executive-overview.png)
 
 ### Credit Risk Analysis
+
 ![Credit Risk Analysis](credit-risk-analysis.png)
 
 ### ECL Analytics
+
 ![ECL Analytics](ecl-analytics.png)
 
 ### Portfolio Intelligence
+
 ![Portfolio Intelligence](portfolio-intelligence.png)
 
 ### Movement Analysis
+
 ![Movement Analysis](movement-analysis.png)
 
 ## Project Objectives
