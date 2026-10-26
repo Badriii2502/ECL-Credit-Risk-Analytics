@@ -7,19 +7,19 @@ An interactive Power BI report for exploring expected credit loss (ECL), gross n
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ### Credit Risk Analysis
-![Credit Risk Analysis](screenshots/credit-risk-analysis.png)
+![Credit Risk Analysis](credit-risk-analysis.png)
 
 ### ECL Analytics
-![ECL Analytics](screenshots/ecl-analytics.png)
+![ECL Analytics](ecl-analytics.png)
 
 ### Portfolio Intelligence
-![Portfolio Intelligence](screenshots/portfolio-intelligence.png)
+![Portfolio Intelligence](portfolio-intelligence.png)
 
 ### Movement Analysis
-![Movement Analysis](screenshots/movement-analysis.png)
+![Movement Analysis](movement-analysis.png)
 
 ## Project Objectives
 
@@ -83,24 +83,6 @@ Opening-to-closing changes in ECL, GNPA, GL Asset, GA ACC, and Interest OS, with
 - Which regions contribute most to GL Asset movement?
 
 These visuals support descriptive exploration; they do not independently prove causation or predict future defaults.
-
-## Repository Structure
-
-```text
-ECL-Credit-Risk-Analytics/
-├── README.md
-├── ECL_Credit_Risk_Dummy_Data_500.xlsx
-├── dax/
-│   └── measures.md
-└── screenshots/
-    ├── executive-overview.png
-    ├── credit-risk-analysis.png
-    ├── ecl-analytics.png
-    ├── portfolio-intelligence.png
-    └── movement-analysis.png
-```
-
-Add your actual Power BI `.pbix` file to the repository separately once you have confirmed it contains no confidential information. The PBIX is not included in this package because it was not available among the files I could access.
 
 ## Limitations
 
